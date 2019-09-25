@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/NWertman/initial-pipeline/_apis/build/status/nwertmanFS.pipelines-java?branchName=master)](https://dev.azure.com/NWertman/initial-pipeline/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
